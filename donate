@@ -23,4 +23,4 @@ async def eco(ctx):
     view = Menu()
     await ctx.reply(view=view)
 
-bot.run("MTEyNDcyMzI3MzMxNDMzNjkxMA.GyzPDN.MiYtrvKv3J9fPFuMO77PEFMUyizu0jEF--DYyo")
+bot.run("TOKEN")
